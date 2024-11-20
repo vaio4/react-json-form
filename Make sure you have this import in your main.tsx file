@@ -1,0 +1,2 @@
+
+This should resolve the Tailwind CSS issues. The CSS will be properly processed through Vite's build pipeline this way.
